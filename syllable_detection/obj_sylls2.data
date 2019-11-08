@@ -1,0 +1,5 @@
+classes= 1  
+train  = train_sylls2.txt  
+valid  = test_sylls2.txt  
+names = obj_sylls.names  
+backup = backup/  
